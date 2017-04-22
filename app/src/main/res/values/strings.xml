@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rate My Professor</string>
+    <string name="jpbaugh">John Phillip Baugh</string>
+    <string name="bdegree3">PhD (in progress), Information Systems Engineering, University of Michigan-Dearborn</string>
+    <string name="bdegree2">BS, Computer Science, University of Michigan-Dearborn</string>
+    <string name="bdegree1">MS, Computer Science, University of Michigan-Dearborn (Rackham)</string>
+    <string name="baughDescrip">John Phillip Baugh in all his greatness</string>
+    <string name="greeting">Please select a teacher: </string>
+    <string name="baughDegree">Ph.D. in Information Systems Engineering</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
