@@ -31,6 +31,8 @@
             android:layout_height="wrap_content"
             android:id="@+id/teacherRatingBar"/>
 
+
+
     </LinearLayout>
 
 </ScrollView>
